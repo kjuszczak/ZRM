@@ -1,0 +1,17 @@
+<package>
+  <description brief="soc">
+
+     soc
+
+  </description>
+  <author>Kamil Juszczak</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/soc</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="actionlib"/>
+  <depend package="actionlib_msgs"/>
+
+</package>

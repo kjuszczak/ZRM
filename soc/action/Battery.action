@@ -1,0 +1,16 @@
+#goal definition
+int32 samples
+int8 batteryState
+float64 batteryCapacity
+float64 chargeCurrentLimit
+float64 dischargeCurrentLimit
+---
+#result definition
+float64 estTimetoFull
+float64 estTimeToEmpty
+---
+#feedback
+int32 batteryState
+int32 batteryMode
+float64 procentSOC
+float64 mAhSOC
